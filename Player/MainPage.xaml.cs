@@ -87,7 +87,7 @@ namespace Player
 
             // Variables liées à la lecture des vidéos
             media.Visibility = Visibility.Visible;
-            media.Source = new Uri("ms-appx:///Video/divers/annonce_02.mp4");
+            media.Source = new Uri("ms-appx:///Video/divers/2018-03-22 - France 2.mp4");
 
             // Variable associée à la mesure de la distance
             _HC_SR04 = new HC_SR04( HC_SR04.AvailableGpioPin.GpioPin_22, HC_SR04.AvailableGpioPin.GpioPin_17);

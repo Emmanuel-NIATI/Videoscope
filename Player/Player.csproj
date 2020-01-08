@@ -149,6 +149,8 @@
     <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
     <Content Include="Assets\StoreLogo.png" />
     <Content Include="Assets\Wide310x150Logo.scale-200.png" />
+    <Content Include="Video\divers\2018-03-22 - France 2.mp4" />
+    <Content Include="Video\divers\annonce_01.mp4" />
     <Content Include="Video\divers\annonce_02.mp4" />
     <Content Include="Video\divers\Liste 01 - Piste 01 - Arielle Dombasle - Extraterrestre.mp4" />
     <Content Include="Video\divers\Liste 01 - Piste 04 - Alice et Moi - C%27est toi qu%27elle préfère.mp4" />
